@@ -234,6 +234,22 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
 * [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
 
+#### *`ECCV 2020`*
+* [Compare and Reweight: Distinctive Image Captioning Using Similar Images Sets](https://arxiv.org/abs/2007.06877) (Oral)
+* In-Home Daily-Life Captioning Using Radio Signals	(Oral)
+* [TextCaps: a Dataset for Image Captioning with Reading Comprehension](https://arxiv.org/abs/2003.12462)	(Oral) 
+* [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://arxiv.org/abs/2007.14164)	(Spotlight)
+* SODA: Story Oriented Dense Video Captioning Evaluation Framework	(Spotlight)
+* Towards Unique and Informative Captioning of Images	(Poster)
+* Learning Visual Representations with Caption Annotations	(Poster)
+* [Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards](https://arxiv.org/abs/2008.02693)	(Poster)
+* [Length Controllable Image Captioning](https://arxiv.org/abs/2005.14386)	(Poster) 
+* Comprehensive Image Captioning via Scene Graph Decomposition	(Poster)
+* [Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning](https://raihanjoty.github.io/papers/shi-et-al-eccv-20.html)	(Poster) 
+* Caption-Supervised Face Recognition: Training a State-of-the-Art Face Model without Manual Annotation	(Poster)
+* Captioning Images for a Real Use Case	(Poster)
+* [Learning to Generate Grounded Visual Captions without Localization Supervision](https://arxiv.org/abs/1906.00283)	(Poster)
+
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
