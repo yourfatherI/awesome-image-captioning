@@ -219,17 +219,24 @@ Markdown format:
 * [Interactive Dual Generative Adversarial Networks for Image Captioning](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf) - Liu et al, `AAAI 2020`.
 * [Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Cao et al, `AAAI 2020`.
 * [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf) - Hou et al, `AAAI 2020`.
-* [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network
-for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.2192.pdf) - Zhang et al, `AAAI 2020`.
+* [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.2192.pdf) - Zhang et al, `AAAI 2020`.
+* Interactive Dual Generative Adversarial Networks for Image Captioning - Junhao Liu
+* [FDM-net: Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Tingjia Cao et al
 
 #### *`CVPR 2020`*
 * [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) - Guo L et al, `CVPR 2020`.
 * [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object_Relational_Graph_With_Teacher-Recommended_Learning_for_Video_Captioning_CVPR_2020_paper.pdf) - Zhang Z et al, `CVPR 2020`.
 * [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Say_As_You_Wish_Fine-Grained_Control_of_Image_Caption_Generation_CVPR_2020_paper.pdf) - Chen S et al, `CVPR 2020`.
+* [Context-Aware Group Captioning via Self-Attention and Contrastive Features](https://arxiv.org/abs/2004.03708) - Zhuowan Li et al
+* [More Grounded Image Captioning by Distilling Image-Text Matching Model](https://arxiv.org/abs/2004.00390v1) [code](https://github.com/YuanEZhou/Grounded-Image-Captioning) - Yuanen Zhou et al
+* [Show, Edit and Tell: A Framework for Editing Image Captions](https://arxiv.org/abs/2003.03107) [code](https://github.com/fawazsammani/show-edit-tell) - Fawaz Sammani et al
+* [Meshed-Memory Transformer for Image Captioning](https://arxiv.org/abs/1912.08226) [code](https://github.com/aimagelab/meshed-memory-transformer) - Marcella Cornia et al
+* [X-Linear Attention Networks for Image Captioning](https://arxiv.org/abs/2003.14080) [code](https://github.com/JDAI-CV/image-captioning) - Yingwei Pan et al
+* [Transform and Tell: Entity-Aware News Image Captioning](https://arxiv.org/abs/2004.08070) [code](https://github.com/alasdairtran/transform-and-tell) [website](https://transform-and-tell.ml/) - Alasdair Tran et al
 
 #### *`ACL 2020`*
 * [Improving Image Captioning with Better Use of Caption]() - Shi Z et al, `ACL 2020`.
-* [Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908) - Alikhani M et al, `ACL 2020`.
+* [Clue: Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908) - Alikhani M et al, `ACL 2020`.
 * [Improving Image Captioning Evaluation by Considering Inter References Variance]() - Yi Y et al, `ACL 2020`.
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
 * [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
@@ -244,7 +251,7 @@ for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.
 * Learning Visual Representations with Caption Annotations	(Poster)
 * [Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards](https://arxiv.org/abs/2008.02693)	(Poster)
 * [Length Controllable Image Captioning](https://arxiv.org/abs/2005.14386)	(Poster) 
-* Comprehensive Image Captioning via Scene Graph Decomposition	(Poster)
+* [Comprehensive Image Captioning via Scene Graph Decomposition](https://arxiv.org/pdf/2007.11731.pdf)	(Poster)
 * [Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning](https://raihanjoty.github.io/papers/shi-et-al-eccv-20.html)	(Poster) 
 * Caption-Supervised Face Recognition: Training a State-of-the-Art Face Model without Manual Annotation	(Poster)
 * Captioning Images for a Real Use Case	(Poster)
