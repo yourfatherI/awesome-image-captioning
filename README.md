@@ -233,7 +233,6 @@
 
 #### *`EMNLP 2020`*
 * [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning](https://www.aclweb.org/anthology/2020.emnlp-main.61/)
-* [ViLBERTScore: Evaluating Image Caption Using Vision-and-Language BERT](https://www.aclweb.org/anthology/2020.eval4nlp-1.4/) 
 * [Semi-Supervised Learning for Video Captioning](https://www.aclweb.org/anthology/2020.findings-emnlp.98/)
 * [Pragmatic Issue-Sensitive Image Captioning](https://www.aclweb.org/anthology/2020.findings-emnlp.173/) 
 * [Structural and Functional Decomposition for Personality Image Captioning in a Communication Game](https://www.aclweb.org/anthology/2020.findings-emnlp.411/) 
