@@ -233,9 +233,6 @@
 
 #### *`EMNLP 2020`*
 * [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning](https://www.aclweb.org/anthology/2020.emnlp-main.61/)
-* [Semi-Supervised Learning for Video Captioning](https://www.aclweb.org/anthology/2020.findings-emnlp.98/)
-* [Pragmatic Issue-Sensitive Image Captioning](https://www.aclweb.org/anthology/2020.findings-emnlp.173/) 
-* [Structural and Functional Decomposition for Personality Image Captioning in a Communication Game](https://www.aclweb.org/anthology/2020.findings-emnlp.411/) 
 * [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707/)
 * [CapWAP: Image Captioning with a Purpose](https://www.aclweb.org/anthology/2020.emnlp-main.705/)
 * [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements](https://www.aclweb.org/anthology/2020.emnlp-main.443/)
