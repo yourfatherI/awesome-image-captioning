@@ -1,32 +1,4 @@
-# Awesome Image Captioning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<p align="center">
-  <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
-</p>
-
-A curated list of image captioning and related area. :-)
-
-## Contributing
-Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email (chihung.chan@outlook.com) to add links.
-Markdown format:
-```markdown
-- [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
-```
-## Change Log
-- Mar. 06 [Another related repository](https://github.com/zhjohnchan/awesome-radiology-report-generation) in medical domain updated
-- Jun. 13 CVPR'20 and ACL'20 updated
-
-## Table of Contents
-- [Papers](#papers)
-  - [Survey](#survey)
-  - [Before](#before) - [2015](#2015) - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
-- [Dataset](#dataset)
-- [Image Captioning Challenge](#image-captioning-challenge)
-- [Popular Implementations](#popular-implementations)
-  - [PyTorch](#pytorch)
-  - [TensorFlow](#tensorflow)
-  - [Torch](#torch)
-  - [Others](#others)
+# Image Captioning
 
 ## Papers
 ### Survey
@@ -257,6 +229,16 @@ Markdown format:
 * Captioning Images for a Real Use Case	(Poster)
 * [Learning to Generate Grounded Visual Captions without Localization Supervision](https://arxiv.org/abs/1906.00283)	(Poster)
 
+#### *`EMNLP 2020`*
+* [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning](https://www.aclweb.org/anthology/2020.emnlp-main.61/)
+* [ViLBERTScore: Evaluating Image Caption Using Vision-and-Language BERT](https://www.aclweb.org/anthology/2020.eval4nlp-1.4/) 
+* [Semi-Supervised Learning for Video Captioning](https://www.aclweb.org/anthology/2020.findings-emnlp.98/)
+* [Pragmatic Issue-Sensitive Image Captioning](https://www.aclweb.org/anthology/2020.findings-emnlp.173/) 
+* [Structural and Functional Decomposition for Personality Image Captioning in a Communication Game](https://www.aclweb.org/anthology/2020.findings-emnlp.411/) 
+* [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.707/)
+* [CapWAP: Image Captioning with a Purpose](https://www.aclweb.org/anthology/2020.emnlp-main.705/)
+* [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements](https://www.aclweb.org/anthology/2020.emnlp-main.443/)
+* [MedICaT: A Dataset of Medical Images, Captions, and Textual References](https://www.aclweb.org/anthology/2020.findings-emnlp.191/)
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
@@ -265,32 +247,3 @@ Markdown format:
 * [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/), LANG: `English`.
 * [AI Challenger](https://challenger.ai/dataset/caption), LANG: `Chinese`.
 * [Visual Genome](http://visualgenome.org/), LANG: `English`.
-* [SBUCaptionedPhotoDataset](http://www.cs.virginia.edu/~vicente/sbucaptions/), LANG: `English`.
-* [IAPR TC-12](https://www.imageclef.org/photodata), LANG: `English, German and Spanish`.
-
-## Image Captioning Challenge
-* [Microsoft COCO Image Captioning](https://competitions.codalab.org/competitions/3221)
-* [Google AI Blog: Conceptual Captions](http://ai.googleblog.com/2018/09/conceptual-captions-new-dataset-and.html)
-
-## Popular Implementations
-### PyTorch
-* [ruotianluo/self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch)
-* [ruotianluo/ImageCaptioning.pytorch](https://github.com/ruotianluo/ImageCaptioning.pytorch)
-* [jiasenlu/NeuralBabyTalk](https://github.com/jiasenlu/NeuralBabyTalk)
-### TensorFlow
-* [tensorflow/models/im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)
-* [DeepRNN/image_captioning](https://github.com/DeepRNN/image_captioning)
-### Torch
-* [jcjohnson/densecap](https://github.com/jcjohnson/densecap)
-* [karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2)
-* [jiasenlu/AdaptiveAttention](https://github.com/jiasenlu/AdaptiveAttention)
-### Others
-* [emansim/text2image](https://github.com/emansim/text2image)
-* [apple2373/chainer-caption](https://github.com/apple2373/chainer-caption)
-* [peteanderson80/bottom-up-attention](https://github.com/peteanderson80/bottom-up-attention)
-
-## Licenses
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Zhihong Chen](https://github.com/zhjohnchan) has waived all copyright and related or neighboring rights to this work.
