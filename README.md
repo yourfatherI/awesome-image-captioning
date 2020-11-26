@@ -194,8 +194,6 @@
 * [Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Cao et al, `AAAI 2020`.
 * [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf) - Hou et al, `AAAI 2020`.
 * [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.2192.pdf) - Zhang et al, `AAAI 2020`.
-* Interactive Dual Generative Adversarial Networks for Image Captioning - Junhao Liu
-* [FDM-net: Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Tingjia Cao et al
 
 #### *`CVPR 2020`*
 * [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) - Guo L et al, `CVPR 2020`.
