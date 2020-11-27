@@ -207,9 +207,9 @@
 * [Transform and Tell: Entity-Aware News Image Captioning](https://arxiv.org/abs/2004.08070) [code](https://github.com/alasdairtran/transform-and-tell) [website](https://transform-and-tell.ml/) - Alasdair Tran et al
 
 #### *`ACL 2020`*
-* [Improving Image Captioning with Better Use of Caption]() - Shi Z et al, `ACL 2020`.
+* [Improving Image Captioning with Better Use of Caption](https://www.aclweb.org/anthology/2020.acl-main.664/) - Shi Z et al, `ACL 2020`.
 * [Clue: Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908) - Alikhani M et al, `ACL 2020`.
-* [Improving Image Captioning Evaluation by Considering Inter References Variance]() - Yi Y et al, `ACL 2020`.
+* [Improving Image Captioning Evaluation by Considering Inter References Variance](https://www.aclweb.org/anthology/2020.acl-main.93/) - Yi Y et al, `ACL 2020`.
 * [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning]() - Lei J et al, `ACL 2020`.
 * [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/pdf/2005.06409) - Kim H et al, `ACL 2020`.
 
