@@ -220,7 +220,7 @@
 * [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://arxiv.org/abs/2007.14164)	(Spotlight)
 * SODA: Story Oriented Dense Video Captioning Evaluation Framework	(Spotlight)
 * Towards Unique and Informative Captioning of Images	(Poster)
-* Learning Visual Representations with Caption Annotations	(Poster)
+* [Learning Visual Representations with Caption Annotations](https://arxiv.org/abs/2008.01392)	(Poster)
 * [Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards](https://arxiv.org/abs/2008.02693)	(Poster)
 * [Length Controllable Image Captioning](https://arxiv.org/abs/2005.14386)	(Poster) 
 * [Comprehensive Image Captioning via Scene Graph Decomposition](https://arxiv.org/pdf/2007.11731.pdf)	(Poster)
