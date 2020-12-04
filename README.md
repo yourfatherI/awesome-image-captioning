@@ -186,14 +186,14 @@
 
 ### 2020
 #### *`AAAI 2020`*
-* [MemCap: Memorizing Style Knowledge for Image Captioning](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhaoW.1402.pdf) - Zhao et al, `AAAI 2020`.
+* [MemCap: Memorizing Style Knowledge for Image Captioning](https://ojs.aaai.org//index.php/AAAI/article/view/6998) - Zhao et al, `AAAI 2020`.
 * [Unified Vision-Language Pre-Training for Image Captioning and VQA](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouL.362.pdf) - Zhou L et al, `AAAI 2020`.
 * [Show, Recall, and Tell: Image Captioning with Recall Mechanism](https://arxiv.org/abs/2001.05876) - Wang L et al, `AAAI 2020`.
 * [Reinforcing an Image Caption Generator using Off-line Human Feedback](https://arxiv.org/abs/1911.09753) - Hongsuck Seo P et al, `AAAI 2020`.
 * [Interactive Dual Generative Adversarial Networks for Image Captioning](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuJ.3970.pdf) - Liu et al, `AAAI 2020`.
-* [Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://aaai.org/Papers/AAAI/2020GB/AAAI-CaoT.4566.pdf) - Cao et al, `AAAI 2020`.
-* [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf) - Hou et al, `AAAI 2020`.
-* [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption](https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangW.2192.pdf) - Zhang et al, `AAAI 2020`.
+* [Feature Deformation Meta-Networks in Image Captioning of Novel Objects](https://ojs.aaai.org//index.php/AAAI/article/view/6620) - Cao et al, `AAAI 2020`.
+* [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://ojs.aaai.org//index.php/AAAI/article/view/6731) - Hou et al, `AAAI 2020`.
+* [Learning Long- and Short-Term User Literal-Preference with Multimodal Hierarchical Transformer Network for Personalized Image Caption](https://ojs.aaai.org//index.php/AAAI/article/view/6503) - Zhang et al, `AAAI 2020`.
 
 #### *`CVPR 2020`*
 * [Normalized and Geometry-Aware Self-Attention Network for Image Captioning](https://arxiv.org/abs/2003.08897) - Guo L et al, `CVPR 2020`.
